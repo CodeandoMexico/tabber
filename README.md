@@ -19,8 +19,8 @@ Para más información sobre el proyecto visita nuestro [FAQ](#).
 
 ## Fuentes
 
-Tabber está inspirado en [Tab for a cause](tab.gladly.io)
+Tabber está inspirado en [Tab for a cause](https://tab.gladly.io)
 
 ## Licencia
 
-Pendiente#
+Pendiente

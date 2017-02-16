@@ -1,0 +1,66 @@
+body {
+    background-image: url('https://source.unsplash.com/1600x900/');
+    background-size: 100%;
+}
+
+p, h1 {    
+    color: #F8F8F8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 10%
+}
+
+p {
+	margin-top: 10px;
+	font-size: 18px;
+}
+
+h1 {
+	font-size: 60px;
+	padding-top: 100px;
+}
+
+.ad-area1 {	
+	background-color: #000;
+	width: 300px;
+	position: fixed;
+	bottom: 120px;
+	right: 50px;
+	height: 250px;
+	opacity: 0.8;
+}
+
+.footer-nav {
+	background-color: #FF0013;
+	width: 50%;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	height: 80px;
+}
+
+.ad-area2 {
+	background-color: #000;
+	width: 50%;
+	height: 80px;
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	opacity: 0.8;
+}
+
+/* Decrease navbar height */
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:4px !important; 
+    padding-bottom:0 !important;
+    height: 28px;
+}
+.navbar {min-height:28px !important;}
+
+.navbar-header a {
+	color: #FF0013;
+}
+
+
+/*
+Palette ID: http://paletton.com/#uid=35A0N0kwi++bu++hX++++rd++kX;
+*/
